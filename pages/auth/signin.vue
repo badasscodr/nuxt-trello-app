@@ -52,8 +52,8 @@ export default {
       snackbar: false,
       snackbarText: 'No error message',
       auth: {
-        email: '',
-        password: ''
+        email: 'user@mail.co',
+        password: '12345678'
       }
     }
   },
